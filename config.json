@@ -1,0 +1,37 @@
+{
+  "telegram": {
+    "bot_token": "8655653997:AAHWGAyUCUeDUA_rQ34A_SDPvCwyYmYVG0c",
+    "default_chat_id": "-5453651522",
+    "plate_chat_mapping": {
+      "MH47BP8265": "632528103",
+      "HR88B8888": "981056661",
+      "KA03EF9012": "112233445"
+    }
+  },
+  "cameras": {
+    "camera_a_index": 1,
+    "camera_b_index": 2,
+    "width": 1280,
+    "height": 720,
+    "fps": 30
+  },
+  "serial": {
+    "port": "COM15",
+    "baudrate": 115200,
+    "timeout": 1
+  },
+  "alpr": {
+    "detector_model": "yolo-v9-t-384-license-plate-end2end",
+    "ocr_model": "cct-xs-v2-global-model",
+    "conf_threshold": 0.4
+  },
+  "paths": {
+    "save_images": true,
+    "image_save_dir": "captured_images"
+  },
+  "speed_limit": {
+    "enabled": true,
+    "limit_kmh": 40,
+    "challan_history_file": "challan_history.json"
+  }
+}

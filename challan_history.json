@@ -1,0 +1,34 @@
+{
+  "HR88B8888": [
+    {
+      "plate": "HR88B8888",
+      "path": "A",
+      "speed": 54.0,
+      "timestamp": "2026-11-10 21:15:27",
+      "limit": 40
+    }
+  ],
+  "MH47BP8265": [
+    {
+      "plate": "MH47BP8265",
+      "path": "A",
+      "speed": 42.0,
+      "timestamp": "2026-11-10 21:15:59",
+      "limit": 40
+    },
+    {
+      "plate": "MH47BP8265",
+      "path": "A",
+      "speed": 44.8,
+      "timestamp": "2026-11-10 21:28:40",
+      "limit": 40
+    },
+    {
+      "plate": "MH47BP8265",
+      "path": "A",
+      "speed": 49.3,
+      "timestamp": "2026-11-10 21:37:39",
+      "limit": 40
+    }
+  ]
+}

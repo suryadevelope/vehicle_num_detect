@@ -1,0 +1,14 @@
+# Core ALPR dependencies
+fast-alpr[onnx-directml]>=0.4.0
+
+# Computer vision
+opencv-python>=4.9.0
+
+# Serial communication
+pyserial>=3.5
+
+# HTTP requests for Telegram
+requests>=2.31.0
+
+# Numerical computing
+numpy>=1.24.0
